@@ -1,0 +1,54 @@
+<html>
+<head>
+<title>Marks</title>
+</head>
+
+<body>
+<div align="center">
+
+<table>		
+	<tr><p><h1>Form to add/update records<h1></p>
+		 <p><font color="blue"><h5>* Fill all fields</h5></font></p></tr>
+	<tr><form method="post" action="update.php">
+			<table>
+				<tr><td>Roll Number</td>
+					 <td><input type="text" name="roll" /></td>
+				</tr>
+				<tr><td>Physics</td>
+					 <td><input type="text" name="phy" /></td>
+				</tr>
+				<tr><td>Chemistry</td>
+					 <td><input type="text" name="chem" /></td>
+				</tr>
+				<tr><td>Maths</td>
+					 <td><input type="text" name="math" /></td>
+				</tr>
+				<tr><td>Computer</td>
+					 <td><input type="text" name="comp" /></td>
+				</tr>
+				<tr><td align="center" colspan="2"><input type="submit" value="Add/Update" /></td>
+				</tr>
+			</table>
+		</form>
+	</tr>
+	<hr>
+	<tr><p><h1>Form to view records<h1></p>
+		 <p><font color="blue"><h5>* Fill all fields<br>
+		 		-- Enter '0000' to view all records.</h5></font></p></tr>	
+	<tr><form method="post" action="view.php">
+			<table>
+				<tr><td>Roll Number</td>
+					 <td><input type="text" name="roll" /></td>
+				</tr>
+				<tr><td align="center" colspan="2"><input type="submit" value="View Marks" /></td>
+				</tr>
+			</table>
+		</form>
+	</tr>
+</table>
+
+</div>
+</body>
+</html>
+		
+			

@@ -1,0 +1,30 @@
+
+
+CS296 Software Systems Lab (Spring 2012) 
+----------------------------------------
+
+Self-work statement 
+(required to be attached with submission of each lab)
+
+
+Note:
+-----
+Discussions, code clarifications. co-debugging, exchange of
+ideas/questions etc. are highly encouraged.
+While the above is true, individual submissions require submitted
+content to be individual's, esp. code, software setups, experiments etc.
+
+
+Date: 02-04-2012
+
+Lab #: 10  Title: php, makefile
+
+I, Gautam Sumu , state that all
+work submitted as part of this lab is my own.
+
+work = code, write-up, conclusions drawn, etc. (all things submitted)
+
+I, discussed ideas/concepts/questions with none.
+
+Signature:  Gautam Sumu  (specify name/initials)
+
